@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Large ML folders
+data/
+models/
+results/
+runs/
+temp_demo/
+
+# system
+.DS_Store
